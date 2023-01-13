@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Kelvin Liao"
   avatar : "/assets/images/professional_pic.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Electrical Engineer, Software Engineer, Always looking for exciting projects!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
