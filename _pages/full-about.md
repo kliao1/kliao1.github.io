@@ -3,7 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Hi there! I'm Kelvin, a software/electrical engineer.
+Hi there (again)! This is the full version of my about page with all the 
+nitty gritty details about me!
 
 # Professional Experience
 
@@ -14,8 +15,11 @@ Jan 2022 - Present
 Dec 2021 - Feb 2022
 
 #### Workshop Demonstrator | The University of Melbourne
+- Co-demonstrated 3-hour workshops consisting of 60 students over 10 weeks per semester.
+- Guided students through their semester-long project involving Fluid 
+  Mechanics, Robotics, etc.
 
-Subjects
+##### Subjects
 - Engineering Systems Design 1 (ESD1), Feb 2020 - Jun 2020
 - Engineering Systems Design 2 (ESD2), Jul 2020 - Nov 2020
 - Engineering, Technology, and Society (ETS), Feb 2021 - Jun 2021
@@ -23,6 +27,13 @@ Subjects
 
 #### Robotics Project Research Assistant | The University of Melbourne
 Apr 2021 - Jul 2021
+- Successfully validated the Arduino Shield-Bot robot and its sensors in 
+  accordance with the workshop material and the simulation environment for the
+  Workshop Coordinator.
+- Investigated lowpass filters to find the best signal processing method to 
+  clean noisy IR signals.
+- Documented my findings on each workshop handout with detailed troubleshooting 
+  procedures.
 
 
 # Education

@@ -3,15 +3,13 @@ author_profile: true
 layout: single
 ---
 
-Hi there!
-
-## A bit about myself
+Hi there! So, A bit about myself!
 
 ### My Mindset
 - I'm always thinking about how to make life easier on both a micro and macro scale.
 - I chose engineering so that I would have the ability to build custom solutions.
 - I believe everyone should have goals in their life and I've decided on home 
-  automation and to improve project management as much of lives can be broken 
+  automation and to improve project management as much of our lives can be broken 
   down into a series of projects.
 
 ### My professional goals
@@ -32,34 +30,63 @@ Hi there!
 
 ## Professional Experience
 
-#### Electrical and Software Engineer | Orkestra Technologies Pty Ltd
+### Electrical and Software Engineer | Orkestra Technologies Pty Ltd
 - Jan 2022 - Present
+- Design, implement, and test new features in our optimisation software 
+  simulating power flow among batteries, solar panels, loads, the grid, and so on.
+- Liaise with key stakeholders such as battery manufacturers to understand the 
+  latest battery modelling techniques and designed the battery degradation 
+  modelling, standby losses, and minimum state of charge of a battery feature
+  within the Orkestra optimization software.
+- Conduct research e.g., tariffs, LGCs, and STCs on the energy market.
+- Develop back-end components to add more functionality to Orkestra Plan, to 
+  improve responsiveness and to boost performance.
+- Implement security and data protection solutions.
+- Coordinate with the front-end team and product owner to understand design 
+  requirements and provide technical solutions.
 
-#### O-Lab Team Member | Swan Foresight Pty Ltd | Opportunity Lab | The University of Melbourne
+### O-Lab Team Member | Swan Foresight Pty Ltd | Opportunity Lab | The University of Melbourne
 - Dec 2021 - Feb 2022
-
-#### Workshop Demonstrator | The University of Melbourne
-
-Subjects
-- Engineering Systems Design 1 (ESD1), Feb 2020 - Jun 2020
-- Engineering Systems Design 2 (ESD2), Jul 2020 - Nov 2020
-- Engineering, Technology, and Society (ETS), Feb 2021 - Jun 2021
-- Engineering, Modelling, and Design (EMD), Jul 2021 - Nov 2021
-
-#### Robotics Project Research Assistant | The University of Melbourne
-Apr 2021 - Jul 2021
-
+- Designed and prototyped an encryption algorithm on a development board with 
+  similar specifications to a solar inverter’s onboard microcontroller.
+- The encryption algorithm’s performance was tested for computational time,
+  memory, and power consumption.
+- Data from the solar inverter was published to an AWS pipeline that is 
+  ultimately displayed on a dashboard.
 
 ## Education
 
-### Master of Engineering (Electrical) | The University of Melbourne  
-- Feb 2020 - Dec 2021
+### Master of Engineering (Electrical) | The University of Melbourne (2020 - 2021)
 - First Class Honours
-- 
+
+### Bachelor of Science (Electrical Systems) - The University of Melbourne (2017 - 2019)
+- First Class Honours
+  
+#### Awards & Distinctions
+- Melbourne School of Engineering Scholarship
+- Leaders in Communities Award
+- Melbourne School of Engineering Ambassador Leadership Program
+- Science Student Ambassador Leadership Program
+- Endeavour Student Ambassador Program
 
 #### Capstone: The Development of the Autonomous Perception System on the MUR21 Autonomous Race Car
-- I was the primary developer of the stereo vision system.
-- 
+- Employed agile principles to design and build the stereo camera pipeline, 
+  utilizing Basler cameras in the autonomous race car for the Melbourne 
+  University Racing student club over 12 months.
+- The perception system runs on the Jetson AGX Xavier which uses Ubuntu 18.04 
+  and ROS as the middleware to manage raw sensor data.
+- Designed and robustly tested the stereo vision pipeline which uses 
+  state-of-the-art object detection (YOLOv4) written in C++ and OpenCV, key point 
+  regression, and feature extraction (SIFT) to obtain the 3D pose estimation 
+  of the traffic cones that marks the racetrack.
+- Experienced in using shell commands and has a good knowledge of Linux.
+- Experimented with various camera settings that could be adjusted in software 
+  to account for varying weather conditions which is important for race conditions.
+- Integrated with the MUR 2019E race car and the Husky robot for testing.
+- Developed complex problem-solving skills through designing various experiments and
+  troubleshooting procedures to determine faults in the embedded systems.
+- <a href="https://murdriverless.github.io/">MUR Driverless Blog</a>
+- <a href="https://github.com/MURDriverless">MUR Driverless Github Repo</a>
 
 #### CIE - Creating Innovative Engineering (ENGR90034)
 - This project-based subject entailed working in groups of 5-6 Masters of Engineering
@@ -87,7 +114,4 @@ Apr 2021 - Jul 2021
 - These lessons greatly help in all aspects of my life as I can use them to 
   continuously improve my character to get along well and be more productive with
   the members of our community.
-
-### Bachelor of Science (Electrical Systems) - The University of Melbourne    
-- Feb 2017 - Dec 2019 
-- First Class Honours
+  
