@@ -19,3 +19,13 @@ The header section looks like:
 ---
 ```
 
+To adjust the nav bar, add the options in the `navigation.yml` file.
+
+This is how to change the home page
+- https://github.com/mmistakes/minimal-mistakes/issues/2191#issuecomment-504077181
+- note that changing `layout` to `single` is what
+  turns off the `recent posts` section.
+  
+
+To underline a text, use `<ins>"text"</ins>`
+- https://stackoverflow.com/questions/3003476/get-underlined-text-with-markdown#:~:text=In%20GitHub%20markdown%20%3Cins%3Etext%3C/ins%3E%20works%20just%20fine.
