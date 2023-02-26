@@ -5,7 +5,8 @@ categories:
 ---
 
 
-When it comes to writing docstrings, you can choose to use the imperative, present tone or the... alternative tone (idk what to call it).
+When it comes to writing docstrings, you can choose to use the imperative, 
+present tone or the... alternative tone (idk what to call it).
 For e.g., 
 For a function `foo()`
 imperative
