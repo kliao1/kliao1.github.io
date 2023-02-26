@@ -48,4 +48,11 @@ your limitations. Be humble. Nothing is insurmountable. You're never done learni
 - This goes without saying, but test your migration scripts as well before 
   executing them.
   
+# For Frontend Developers
+- [Ben Newton's Repo on frontend dev tools](https://github.com/bennewton999/my-current-frontend-dev-tools) 
+  has a pretty good list of frontend knowledge that one should probably know (maybe, I'm no expert yet)
+
+# For all software engineers
+- DovAmir's guide to [software and architectural design patterns](https://github.com/DovAmir/awesome-design-patterns?utm_source=tldrnewsletter#awesome-software-and-architectural-design-patterns)
+  seem to be pretty informative and easy to understand (I think, don't take my word for it, check it out yourself).
   
